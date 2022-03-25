@@ -9,7 +9,7 @@ public class MessageRunner implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		
-		System.out.println("WELCOME TO SPRING BOOT APP!");
+		int a=0;
 		System.out.println("HELLO FILE UPDATED!");
 		
 
