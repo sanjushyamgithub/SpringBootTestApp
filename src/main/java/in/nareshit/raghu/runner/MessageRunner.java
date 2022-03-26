@@ -10,7 +10,8 @@ public class MessageRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		
 		int a=0;
-		System.out.println("HELLO FILE UPDATED!");
+		int b=0;
+		System.out.println("HELLO FILE UPDATED!" +(a+b));
 		
 
 	}
