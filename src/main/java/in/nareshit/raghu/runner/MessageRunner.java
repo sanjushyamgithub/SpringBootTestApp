@@ -15,7 +15,7 @@ public class MessageRunner implements CommandLineRunner {
 		int a=0;
 		int b=0;
 		
-		
+		int c=0;
 		try {
 			log.info("Started!");
 			System.out.println("HELLO FILE UPDATED!" +(a+b));
